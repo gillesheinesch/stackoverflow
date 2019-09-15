@@ -1,2 +1,3 @@
-# stackoverflow
-Answers on Stackoverflow questions
+# Stackoverflow Answers
+
+Answers on Stackoverflow questions by Gilles Heinesch
