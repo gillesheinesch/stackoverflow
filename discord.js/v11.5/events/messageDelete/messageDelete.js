@@ -2,7 +2,6 @@
 Copyright (c) 2019, Gilles Heinesch! Inc. All rights reserved.
 Code licensed under the MIT License:
 https://opensource.org/licenses/MIT
-discordjs version: 11.5
 */
 
 const Discord = require('discord.js'); // To install Discord, execute npm install discord.js
