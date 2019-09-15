@@ -1,0 +1,55 @@
+{
+    "name": "stackoverflow",
+    "version": "1.0.0",
+    "description": "",
+    "main": "stackoverflow.js",
+    "dependencies": {
+        "eslint-config-airbnb-base": "^14.0.0",
+        "eslint": "^6.1.0",
+        "eslint-plugin-import": "^2.18.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "eslintConfig": {
+        "extends": "airbnb-base",
+        "env": {
+            "es6": true,
+            "browser": true
+        },
+        "rules": {
+            "brace-style": [
+                "error",
+                "stroustrup"
+            ],
+            "comma-dangle": [
+                "error",
+                "never"
+            ],
+            "no-unused-vars": [
+                "warn"
+            ],
+            "no-var": [
+                "off"
+            ],
+            "one-var": [
+                "off"
+            ],
+            "no-multi-assign": [
+                "off"
+            ],
+            "guard-for-in": [
+                "off"
+            ],
+            "class-methods-use-this": [
+                "off"
+            ],
+            "max-len": [
+                "off"
+            ]
+        }
+    }
+}
